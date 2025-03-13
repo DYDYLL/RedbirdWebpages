@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue2project02"]=self["webpackChunkvue2project02"]||[]).push([[594],{5190:function(t,e,u){u.r(e),u.d(e,{default:function(){return i}});var s=function(){var t=this;t._self._c;return t._m(0)},n=[function(){var t=this,e=t._self._c;return e("div",{staticClass:"about"},[e("img",{attrs:{alt:"Vue logo",src:u(4343)}}),e("h1",[t._v("This is an about page")])])}],r=u(1656),a={},c=(0,r.A)(a,s,n,!1,null,"0620239e",null),i=c.exports}}]);
-//# sourceMappingURL=about.e2da6849.js.map
